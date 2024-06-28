@@ -9,8 +9,7 @@
 
 ## Sobre mi
 
-- ⭐ Software Engineer ⭐ 
-<br>
+- ⭐ Software Engineer ⭐
 - ⭐ Tennis Player ⭐ 
 <br>
 
