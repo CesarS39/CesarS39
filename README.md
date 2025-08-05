@@ -101,6 +101,7 @@ public class CesarEnriquez
 Plataforma móvil en desarrollo para descubrir y compartir lugares únicos
 
 Tech: Flutter • FastAPI • Firebase • MongoDB • Supabase
+
 Estado: 🚧 En desarrollo activo
 
 ⸻
@@ -110,8 +111,8 @@ Estado: 🚧 En desarrollo activo
 Sistema web en fase final para la administración completa de torneos deportivos
 
 Tech: .NET Framework • C# • SQL Server • Azure • Bootstrap
+
 Estado: 🛠️ Fase de pruebas y despliegue en Azure
-⸻
 
 </div>
 
