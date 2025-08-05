@@ -102,7 +102,9 @@ Plataforma móvil en desarrollo para descubrir y compartir lugares únicos
 
 Tech: Flutter • FastAPI • Firebase • MongoDB • Supabase
 
-Estado: 🚧 En desarrollo activo
+Estado: En desarrollo activo
+
+[![Repo](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CesarS39/MySpot_App)
 
 ⸻
 
@@ -112,7 +114,10 @@ Sistema web en fase final para la administración completa de torneos deportivos
 
 Tech: .NET Framework • C# • SQL Server • Azure • Bootstrap
 
-Estado: 🛠️ Fase de pruebas y despliegue en Azure
+Estado: Fase de pruebas y despliegue en Azure
+
+[![Repo](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Voxewl/GestorDeTorneos)
+
 
 </div>
 
