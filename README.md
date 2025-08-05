@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Background Banner -->
-<img src="https://ftauvekkhkutiruepfkw.supabase.co/storage/v1/object/sign/myspot/Sam/v904-nunny-012.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV85Nzg3ZjIzYS1jY2MwLTRkOTktOWM5Ni1hOTU3ZWI1YjA2OTUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJteXNwb3QvU2FtL3Y5MDQtbnVubnktMDEyLmpwZyIsImlhdCI6MTc1NDM1MjU1OSwiZXhwIjoyMDY5NzEyNTU5fQ.CMP7uewADQG1hfYAVVtENFfrOxyfY8RxHzA9Qlo7p1I" width="100%" height="300" style="object-fit: cover; border-radius: 15px; margin-bottom: 20px;" alt="Banner"/>
-
 <!-- Profile Picture -->
 <img src="https://ftauvekkhkutiruepfkw.supabase.co/storage/v1/object/sign/myspot/Sam/memoji.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV85Nzg3ZjIzYS1jY2MwLTRkOTktOWM5Ni1hOTU3ZWI1YjA2OTUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJteXNwb3QvU2FtL21lbW9qaS53ZWJwIiwiaWF0IjoxNzU0MzUyNjQxLCJleHAiOjIwNjk3MTI2NDF9.jaoXmUwRz3zcYU-hKA673AvQqUiqSjvbIiLVkm1cPWc" width="150" height="150" style="border-radius: 50%; border: 5px solid #87CEEB; margin-top: -75px; background: white;" alt="César Enríquez"/>
 
@@ -147,9 +144,8 @@ public class CesarEnriquez
 [![Email](https://img.shields.io/badge/📧_Email-B6D7FF?style=for-the-badge&logoColor=white)](mailto:cesarsamuel37@gmail.com)
 [![Phone](https://img.shields.io/badge/📱_+52_771_410_8656-ADD8E6?style=for-the-badge&logoColor=white)](tel:+527714108656)
 
-### 💡 *"Siempre aprendiendo, siempre creando, siempre mejorando"*
-
-⭐ **¡Gracias por visitar mi perfil! No olvides darle estrella a los repos que te gusten** ⭐
+### 💡 *"All you have to do is try. And to me, the worst kind of defeat is not failure per se. It’s the decision not to try."*
+###  "Novak Djokovic."
 
 </div>
 
