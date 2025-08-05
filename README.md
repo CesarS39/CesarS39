@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;.NET+%7C+Flutter+%7C+Python;Always+learning+new+technologies;Building+solutions+that+matter" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://cesars39.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://cesars39.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CesarS39)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarsamuel37@gmail.com)
 
@@ -96,21 +96,22 @@ public class CesarEnriquez
 
 ---
 
-### 📱 **MySpot - Red Social de Lugares**
-*Plataforma móvil para descubrir y compartir lugares únicos*
+📱 MySpot - Red Social de Lugares
 
-**Tech:** Flutter • FastAPI • Firebase • MongoDB • Supabase
+Plataforma móvil en desarrollo para descubrir y compartir lugares únicos
 
-[![Repo](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CesarS39/MySpot_App)
+Tech: Flutter • FastAPI • Firebase • MongoDB • Supabase
+Estado: 🚧 En desarrollo activo
 
----
+⸻
 
-### ⚽ **LigaSmart - Gestión de Torneos**
-*Sistema web para administración completa de torneos deportivos*
+⚽ LigaSmart - Gestión de Torneos
 
-**Tech:** .NET Framework • C# • SQL Server • Azure • Bootstrap
+Sistema web en fase final para la administración completa de torneos deportivos
 
-[![Repo](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Voxewl/GestorDeTorneos)
+Tech: .NET Framework • C# • SQL Server • Azure • Bootstrap
+Estado: 🛠️ Fase de pruebas y despliegue en Azure
+⸻
 
 </div>
 
