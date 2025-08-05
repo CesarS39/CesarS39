@@ -150,8 +150,6 @@ public class CesarEnriquez
 ### 💡 *"All you have to do is try. And to me, the worst kind of defeat is not failure per se. It's the decision not to try."*
 ### "Novak Djokovic."
 
-⭐ **¡Gracias por visitar mi perfil! No olvides darle estrella a los repos que te gusten** ⭐
-
 </div>
 
 ---
