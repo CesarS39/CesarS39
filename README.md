@@ -10,8 +10,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;.NET+%7C+Flutter+%7C+Python;Always+learning+new+technologies;Building+solutions+that+matter" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://cesars39.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CesarS39)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarsamuel37@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=CesarS39&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
